@@ -1,3 +1,5 @@
+clc
+clear all
 fprintf("Please think of a number between 0 and 100!");
 low=0;
 high=100;
