@@ -1,6 +1,6 @@
 # Game_of_guess
 
-### created by shriarul643@gmail.com
+### Author by shriarul643@gmail.com
 
 This a *matlab* script 
 
